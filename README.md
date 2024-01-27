@@ -2,7 +2,8 @@
 
 ### Todo:
 - [ ] change colors to COSMIC
-- [ ] add memory module
+- [x] add memory module
+- ^ ram included in cpu module
 
 ---
 
