@@ -1,17 +1,42 @@
 # NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
 # WARNING: hex colors can't contain capital letters
 
-# --> Catppuccin (Macchiato)
-thm_bg="#24273a"
-thm_fg="#cad3f5"
-thm_cyan="#91d7e3"
-thm_black="#1e2030"
-thm_gray="#363a4f"
-thm_magenta="#c6a0f6"
-thm_pink="#f5bde6"
-thm_red="#ed8796"
-thm_green="#a6da95"
-thm_yellow="#eed49f"
-thm_blue="#8aadf4"
-thm_orange="#f5a97f"
-thm_black4="#5b6078"
+# --> COSMIC
+thm_bg="#1d1d1d"
+thm_fg="#c4c4c4"
+thm_cyan="#49bac8"
+thm_black="#1b1b1b"
+thm_gray="#bebebe"
+thm_magenta="#be6dee"
+thm_pink="#d68eff"
+thm_red="#ff8985"
+thm_green="#97d5a0"
+thm_yellow="#fae365"
+thm_blue="#7db1da"
+thm_orange="#ddcc77"
+thm_black4="#1e1e1e"
+
+# colors:
+#   primary:
+#     background: '0x1b1b1b'
+#     foreground: '0xc4c4c4'
+#
+#   bright:
+#     black:   '0x808080'
+#     red:     '0xff8985'
+#     green:   '0x97d5a0'
+#     yellow:  '0xfae365'
+#     blue:    '0x7db1da'
+#     magenta: '0xd68eff'
+#     cyan:    '0x49bac8'
+#     white:   '0xc4c4c4'
+#   normal:
+#     black:   '0x1b1b1b'
+#     red:     '0xf16161'
+#     green:   '0x7cb987'
+#     yellow:  '0xddcc77'
+#     blue:    '0x6296be'
+#     magenta: '0xbe6dee'
+#     cyan:    '0x49bac8'
+#     white:   '0xbebebe'
+#
